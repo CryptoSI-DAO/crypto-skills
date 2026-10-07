@@ -1,0 +1,4 @@
+*.json.tmp
+__pycache__/
+gov*.json
+.DS_Store

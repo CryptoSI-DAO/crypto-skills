@@ -1,0 +1,922 @@
+[
+ {
+  "date": "2025-10-09",
+  "name": "LRP - JSKitty v3",
+  "amount_piv": 38000.0,
+  "yes": 677,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/lrp-jskitty-v3.2904/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-10-09",
+  "name": "LRP - Labs Infra",
+  "amount_piv": 9250.0,
+  "yes": 674,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/lrp-labs-infra.2903/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-10-09",
+  "name": "LRP - JSKitty",
+  "amount_piv": 28500.0,
+  "yes": 76,
+  "no": 408,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/lrp-jskitty.2902/",
+  "share_pct": 15.7
+ },
+ {
+  "date": "2025-10-10",
+  "name": "LRP - Luke",
+  "amount_piv": 28500.0,
+  "yes": 670,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/lrp-luke.2910/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-10-10",
+  "name": "BusinessDev11",
+  "amount_piv": 33000.0,
+  "yes": 658,
+  "no": 2,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/lobd11-jeffrey.2906/",
+  "share_pct": 99.7
+ },
+ {
+  "date": "2025-10-10",
+  "name": "AmbassadorPrg-Oct25",
+  "amount_piv": 40000.0,
+  "yes": 445,
+  "no": 3,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/ambassador-program-oct-2025.2907/",
+  "share_pct": 99.3
+ },
+ {
+  "date": "2025-10-10",
+  "name": "RedByrd - Oct25",
+  "amount_piv": 5000.0,
+  "yes": 445,
+  "no": 10,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/redbyrd-oct25.2908/",
+  "share_pct": 97.8
+ },
+ {
+  "date": "2025-10-10",
+  "name": "Hawtch-Markting.Nov",
+  "amount_piv": 33000.0,
+  "yes": 135,
+  "no": 14,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/hawtch-markting-nov.2909/",
+  "share_pct": 90.6
+ },
+ {
+  "date": "2025-10-10",
+  "name": "Learn N Earn",
+  "amount_piv": 15000.0,
+  "yes": 540,
+  "no": 136,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/learn-earn-program_04.2905/",
+  "share_pct": 79.9
+ },
+ {
+  "date": "2025-10-14",
+  "name": "CoreDevOps-Fuzz-Q425",
+  "amount_piv": 15000.0,
+  "yes": 665,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/core-devops-fuzz-q4-2025.2912/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-10-14",
+  "name": "Vote-Hawtch.Mrkt.Nov",
+  "amount_piv": 24000.0,
+  "yes": 452,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/vote-hawtch-mrkt-nov.2913/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-11-05",
+  "name": "BlofinxPIVX",
+  "amount_piv": 21141.0,
+  "yes": 633,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/blofin-pivx-usdt-listing.2915",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-11-06",
+  "name": "PIVX_Wams",
+  "amount_piv": 7974.0,
+  "yes": 648,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/marketing-wams.2917/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-11-09",
+  "name": "Content Strategist",
+  "amount_piv": 10023.0,
+  "yes": 660,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/content-strategist.2918/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-11-10",
+  "name": "Hawtch.Mrkt.Dec",
+  "amount_piv": 24000.0,
+  "yes": 643,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/hawtch-mrkt-dec.2919/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-11-12",
+  "name": "AmbassadorPrg-Nov25",
+  "amount_piv": 50000.0,
+  "yes": 640,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/ambassador-program-nov-2025.2920/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-11-12",
+  "name": "RedByrd - Nov 2025",
+  "amount_piv": 30000.0,
+  "yes": 651,
+  "no": 3,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/redbyrd-nov-2025.2921/",
+  "share_pct": 99.5
+ },
+ {
+  "date": "2025-11-15",
+  "name": "Q4Liquid369",
+  "amount_piv": 33000.0,
+  "yes": 649,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/q4liquid369.2922",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-11-16",
+  "name": "PIVXArtProposal",
+  "amount_piv": 3500.0,
+  "yes": 385,
+  "no": 57,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivxartproposal.2923/",
+  "share_pct": 87.1
+ },
+ {
+  "date": "2025-11-17",
+  "name": "LRP - Meerkat",
+  "amount_piv": 22500.0,
+  "yes": 662,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/lrp-meerkat.2924/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-11-18",
+  "name": "LRP - Rushali",
+  "amount_piv": 22500.0,
+  "yes": 333,
+  "no": 329,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/lrp-rushali.2925/",
+  "share_pct": 50.3
+ },
+ {
+  "date": "2025-11-19",
+  "name": "BitMart_Perps1",
+  "amount_piv": 38600.0,
+  "yes": 633,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/bitmartp1-perps.2927/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-12-07",
+  "name": "VPS_Exp_2026_Jan-Dec",
+  "amount_piv": 40717.0,
+  "yes": 493,
+  "no": 1,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/vps_expenses_2026_jan-dec.2933/",
+  "share_pct": 99.8
+ },
+ {
+  "date": "2025-12-08",
+  "name": "PIVX_Wams2",
+  "amount_piv": 15550.0,
+  "yes": 474,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/marketing-pt-2-wams.2934",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-12-10",
+  "name": "PivxArtProposal",
+  "amount_piv": 3500.0,
+  "yes": 106,
+  "no": 1,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/pivxartproposal.2935/",
+  "share_pct": 99.1
+ },
+ {
+  "date": "2025-12-11",
+  "name": "Hawtch-Markting.Jan",
+  "amount_piv": 24000.0,
+  "yes": 104,
+  "no": 1,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/hawtch-mrkt-jan.2936/",
+  "share_pct": 99.0
+ },
+ {
+  "date": "2025-12-12",
+  "name": "PIVXMMren06",
+  "amount_piv": 29967.0,
+  "yes": 477,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivx-mm-renewal-06.2937/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-12-17",
+  "name": "LRP - Duddino",
+  "amount_piv": 30000.0,
+  "yes": 489,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/lrp-duddino.2939/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2025-12-23",
+  "name": "BlofinxPIVX2",
+  "amount_piv": 8950.0,
+  "yes": 474,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/blofin-topup.2940/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-01-08",
+  "name": "CoreDevOps-Fuzz-Q126",
+  "amount_piv": 20000.0,
+  "yes": 479,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/core-devops-fuzz-q1-2026.2943/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-01-09",
+  "name": "BusinessDev12",
+  "amount_piv": 33000.0,
+  "yes": 471,
+  "no": 2,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/lobd12-jeffrey.2944/",
+  "share_pct": 99.6
+ },
+ {
+  "date": "2026-01-10",
+  "name": "Luke (Q1 2026)",
+  "amount_piv": 28500.0,
+  "yes": 483,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/luke-q1-2026.2946/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-01-10",
+  "name": "PIVXArtProposal",
+  "amount_piv": 4500.0,
+  "yes": 24,
+  "no": 229,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/pivxartproposal.2947/",
+  "share_pct": 9.5
+ },
+ {
+  "date": "2026-01-12",
+  "name": "AmbassadorPrg-Jan25",
+  "amount_piv": 30000.0,
+  "yes": 457,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/amassador-program-jan-2025.2948/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-01-15",
+  "name": "PIVX Marketing Wams",
+  "amount_piv": 13360.0,
+  "yes": 469,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivx-marketing.2949",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-01-16",
+  "name": "JSKitty - Q1",
+  "amount_piv": 20000.0,
+  "yes": 491,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/jskitty-q1.2950/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-01-17",
+  "name": "Labs Infra",
+  "amount_piv": 7000.0,
+  "yes": 688,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/labs-infra.2951/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-01-19",
+  "name": "LearnNEarn_5",
+  "amount_piv": 10000.0,
+  "yes": 397,
+  "no": 22,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/learn-earn-program_05.2952/",
+  "share_pct": 94.7
+ },
+ {
+  "date": "2026-01-19",
+  "name": "CSJan26",
+  "amount_piv": 13961.0,
+  "yes": 399,
+  "no": 184,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/contentstrat.2953/",
+  "share_pct": 68.4
+ },
+ {
+  "date": "2026-01-20",
+  "name": "SlushFund ",
+  "amount_piv": 4000.0,
+  "yes": 457,
+  "no": 12,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/slush-fund.2954/",
+  "share_pct": 97.4
+ },
+ {
+  "date": "2026-01-22",
+  "name": "PIVXMMFund05",
+  "amount_piv": 132170.0,
+  "yes": 386,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivxmmfund05.2955/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-02-15",
+  "name": "PIVX Marketing Wams",
+  "amount_piv": 24109.0,
+  "yes": 397,
+  "no": 13,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivx-marketing.2958/",
+  "share_pct": 96.8
+ },
+ {
+  "date": "2026-02-17",
+  "name": "Amb-Prog-Feb-2026",
+  "amount_piv": 36500.0,
+  "yes": 384,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/ambassador-program-feb-2026.2960/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-02-18",
+  "name": "RedByrd Feb 2026",
+  "amount_piv": 33000.0,
+  "yes": 548,
+  "no": 227,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/redbyrd-feb-2026.2961/",
+  "share_pct": 70.7
+ },
+ {
+  "date": "2026-02-19",
+  "name": "Q1Liquid369-26",
+  "amount_piv": 40000.0,
+  "yes": 575,
+  "no": 3,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/q1liquid369-26.2962/",
+  "share_pct": 99.5
+ },
+ {
+  "date": "2026-02-19",
+  "name": "Meerkat-Q1",
+  "amount_piv": 25000.0,
+  "yes": 397,
+  "no": 13,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/meerkat-q1.2963/",
+  "share_pct": 96.8
+ },
+ {
+  "date": "2026-02-26",
+  "name": "PIVXMMcamp",
+  "amount_piv": 110900.0,
+  "yes": 396,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivxmm-campaign.2964/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-03-11",
+  "name": "CSMar26",
+  "amount_piv": 29300.0,
+  "yes": 407,
+  "no": 373,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/content-strategist.2966/",
+  "share_pct": 52.2
+ },
+ {
+  "date": "2026-03-11",
+  "name": "Add PIVX - BoxWallet",
+  "amount_piv": 10000.0,
+  "yes": 1,
+  "no": 216,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/adding-pivx-to-boxwallet.2965/",
+  "share_pct": 0.5
+ },
+ {
+  "date": "2026-03-13",
+  "name": "AmbassProg-Mar2026",
+  "amount_piv": 36500.0,
+  "yes": 382,
+  "no": 1,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/ambassprog-march-2026.2967/",
+  "share_pct": 99.7
+ },
+ {
+  "date": "2026-03-20",
+  "name": "Marketing PIVX",
+  "amount_piv": 25400.0,
+  "yes": 381,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/marketing-pivx.2969/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-03-22",
+  "name": "BugReportPayout",
+  "amount_piv": 15050.0,
+  "yes": 382,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/bug-report-payout.2970/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-03-23",
+  "name": "PIVXxCoinomi2",
+  "amount_piv": 55885.0,
+  "yes": 592,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivx-x-coinomi-2.2972/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-03-23",
+  "name": "BizDevtopup",
+  "amount_piv": 7000.0,
+  "yes": 382,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/bizdev-topup.2971/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-03-27",
+  "name": "PIVXMMFund06",
+  "amount_piv": 46350.0,
+  "yes": 380,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivxmmfund06.2973/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-04-07",
+  "name": "Luke (Q2 2026)",
+  "amount_piv": 30000.0,
+  "yes": 668,
+  "no": 24,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/luke-q2-2026.2974/",
+  "share_pct": 96.5
+ },
+ {
+  "date": "2026-04-14",
+  "name": "LearnNEarn_06",
+  "amount_piv": 15000.0,
+  "yes": 121,
+  "no": 562,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/learn-earn-program_06.2975/",
+  "share_pct": 17.7
+ },
+ {
+  "date": "2026-04-15",
+  "name": "CoreDevOps-Fuzz-Q226",
+  "amount_piv": 20000.0,
+  "yes": 664,
+  "no": 18,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/core-devops-fuzz-q2-2026.2976/",
+  "share_pct": 97.4
+ },
+ {
+  "date": "2026-04-17",
+  "name": "JSKitty Q2",
+  "amount_piv": 45000.0,
+  "yes": 663,
+  "no": 24,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/jskitty-q2.2977/",
+  "share_pct": 96.5
+ },
+ {
+  "date": "2026-04-19",
+  "name": "AmbassProg-Apr-2026",
+  "amount_piv": 36500.0,
+  "yes": 3,
+  "no": 377,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/ambassprogram-april-2026.2978/",
+  "share_pct": 0.8
+ },
+ {
+  "date": "2026-04-21",
+  "name": "Meerkat-Q2",
+  "amount_piv": 25000.0,
+  "yes": 662,
+  "no": 24,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/meerkat-q2.2980/",
+  "share_pct": 96.5
+ },
+ {
+  "date": "2026-04-21",
+  "name": "Labs Infra",
+  "amount_piv": 12500.0,
+  "yes": 661,
+  "no": 24,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/labs-infra.2984/",
+  "share_pct": 96.5
+ },
+ {
+  "date": "2026-04-21",
+  "name": "Duddino May-Jul 2026",
+  "amount_piv": 33000.0,
+  "yes": 660,
+  "no": 24,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/duddino-may-jul-2026.2983/",
+  "share_pct": 96.5
+ },
+ {
+  "date": "2026-04-21",
+  "name": "BusinessDev13",
+  "amount_piv": 40000.0,
+  "yes": 657,
+  "no": 26,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/lobd13-jeffrey.2981/",
+  "share_pct": 96.2
+ },
+ {
+  "date": "2026-04-21",
+  "name": "PIVX Marketing",
+  "amount_piv": 29200.0,
+  "yes": 375,
+  "no": 792,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/pivx-marketing.2982/",
+  "share_pct": 32.1
+ },
+ {
+  "date": "2026-04-26",
+  "name": "WamsPIVXMarkting6thC",
+  "amount_piv": 29200.0,
+  "yes": 539,
+  "no": 212,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/wamspivxmarkting6thcycle.2985/",
+  "share_pct": 71.8
+ },
+ {
+  "date": "2026-04-29",
+  "name": "Ai_Fund",
+  "amount_piv": 12200.0,
+  "yes": 591,
+  "no": 2,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/ai-fund-jeff.2986/",
+  "share_pct": 99.7
+ },
+ {
+  "date": "2026-04-29",
+  "name": "PIVXMMFund07",
+  "amount_piv": 100100.0,
+  "yes": 590,
+  "no": 2,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivxmmfund07.2987/",
+  "share_pct": 99.7
+ },
+ {
+  "date": "2026-05-18",
+  "name": "Q2Liquid369",
+  "amount_piv": 45000.0,
+  "yes": 605,
+  "no": 29,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/q2liquid369-26.2988/",
+  "share_pct": 95.4
+ },
+ {
+  "date": "2026-05-19",
+  "name": " WAMsPIVXMarketingJu",
+  "amount_piv": 35604.0,
+  "yes": 352,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/wamspivxmarketingjune.2989/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-05-19",
+  "name": "WAMsPIVXMarketingJul",
+  "amount_piv": 35604.0,
+  "yes": 300,
+  "no": 17,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/wamspivxmarketingjune.2989/",
+  "share_pct": 94.6
+ },
+ {
+  "date": "2026-05-24",
+  "name": "AmbassPro-May_2026",
+  "amount_piv": 15000.0,
+  "yes": 1,
+  "no": 0,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/ambassador-program-may-2026.2990/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-05-24",
+  "name": "RedByrd - May 2026",
+  "amount_piv": 45000.0,
+  "yes": 349,
+  "no": 45,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/redbyrd-may-2026.2991/",
+  "share_pct": 88.6
+ },
+ {
+  "date": "2026-05-26",
+  "name": "PIVXMMFund08",
+  "amount_piv": 100800.0,
+  "yes": 565,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivxmmfund08.2992/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-06-18",
+  "name": "PIVX.Ninja - Testnet",
+  "amount_piv": 15000.0,
+  "yes": 83,
+  "no": 481,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/pivx-ninja-testnet.2994/",
+  "share_pct": 14.7
+ },
+ {
+  "date": "2026-06-19",
+  "name": "AmbassadorPrg-June26",
+  "amount_piv": 15000.0,
+  "yes": 1,
+  "no": 17,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/ambassprg-june-26.2995/",
+  "share_pct": 5.6
+ },
+ {
+  "date": "2026-06-21",
+  "name": "PIVXMMFund09",
+  "amount_piv": 70800.0,
+  "yes": 511,
+  "no": 17,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivxmmfund09.2996/",
+  "share_pct": 96.8
+ },
+ {
+  "date": "2026-06-25",
+  "name": "Testnet6Topup",
+  "amount_piv": 15000.0,
+  "yes": 1005,
+  "no": 74,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/testnet6-topup.2997/",
+  "share_pct": 93.1
+ },
+ {
+  "date": "2026-07-01",
+  "name": "PIVXMMFundadd",
+  "amount_piv": 60000.0,
+  "yes": 515,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivxmmfundadd.2998/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-07-21",
+  "name": "BusinessDev14",
+  "amount_piv": 45000.0,
+  "yes": 1665,
+  "no": 239,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/lobd14-jeffrey.3001/",
+  "share_pct": 87.4
+ },
+ {
+  "date": "2026-07-23",
+  "name": "CoreDevOps-Fuzz-Q326",
+  "amount_piv": 20000.0,
+  "yes": 1671,
+  "no": 19,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/core-devops-fuzz-q3-2026.3002/",
+  "share_pct": 98.9
+ },
+ {
+  "date": "2026-07-23",
+  "name": "Duddino Aug-Oct 2026",
+  "amount_piv": 55000.0,
+  "yes": 1666,
+  "no": 19,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/duddino-aug-oct-2026.3003/",
+  "share_pct": 98.9
+ },
+ {
+  "date": "2026-07-23",
+  "name": "Luke Q3 2026",
+  "amount_piv": 45000.0,
+  "yes": 1677,
+  "no": 20,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/luke-q3-2026.3004/",
+  "share_pct": 98.8
+ },
+ {
+  "date": "2026-07-24",
+  "name": "Labs Infra",
+  "amount_piv": 16500.0,
+  "yes": 1675,
+  "no": 19,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/labs-infra.3006/",
+  "share_pct": 98.9
+ },
+ {
+  "date": "2026-07-24",
+  "name": "Amb_Prog_Q3_2026",
+  "amount_piv": 27500.0,
+  "yes": 105,
+  "no": 962,
+  "result": "FAIL",
+  "url": "https://forum.pivx.org/threads/ambprog-q3-26.3005",
+  "share_pct": 9.8
+ },
+ {
+  "date": "2026-07-27",
+  "name": "WAMsPIVXMarketingAug",
+  "amount_piv": 35604.0,
+  "yes": 386,
+  "no": 30,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/wamspivxmarketingaugust.3008/",
+  "share_pct": 92.8
+ },
+ {
+  "date": "2026-07-31",
+  "name": "PIVXMMFund10",
+  "amount_piv": 122390.0,
+  "yes": 402,
+  "no": 13,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivxmmfund10.3009/",
+  "share_pct": 96.9
+ },
+ {
+  "date": "2026-08-02",
+  "name": "TopUpLiquid",
+  "amount_piv": 32500.0,
+  "yes": 386,
+  "no": 14,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/topup-liquid.3010/",
+  "share_pct": 96.5
+ },
+ {
+  "date": "2026-08-25",
+  "name": "WAMsPIVXMarketingSep",
+  "amount_piv": 45000.0,
+  "yes": 700,
+  "no": 1,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/wamspivxmarketingsep.3014/",
+  "share_pct": 99.9
+ },
+ {
+  "date": "2026-08-26",
+  "name": "PIVXMMFund11",
+  "amount_piv": 120400.0,
+  "yes": 701,
+  "no": 0,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivxmmfund11.3015/",
+  "share_pct": 100.0
+ },
+ {
+  "date": "2026-09-22",
+  "name": "WAMSMarketingOct",
+  "amount_piv": 45000.0,
+  "yes": 533,
+  "no": 1,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/wamspivxmarketingoct.3024/",
+  "share_pct": 99.8
+ },
+ {
+  "date": "2026-09-25",
+  "name": "PIVXMMFund12",
+  "amount_piv": 85400.0,
+  "yes": 886,
+  "no": 1,
+  "result": "PASS",
+  "url": "https://forum.pivx.org/threads/pivxmmfund12.3027/",
+  "share_pct": 99.9
+ }
+]
